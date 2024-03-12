@@ -31,22 +31,4 @@ cd CatGPTX.X.X.py
 # Follow the setup instructions to get started
 Contributing
 We welcome contributions to CatGENRTX! If you have ideas, suggestions, or want to contribute code, please feel free to open an issue or submit a pull request.
-
-License
-[Specify the license under which this project is available]
-
-Acknowledgments
-Thanks to everyone who has contributed to the development of CatGENRTX.
-Special thanks to the M1 Max and M1 chip development teams for providing the technology that powers this project.
-For more information and updates, keep an eye on this repository. We're excited to see how CatGENRTX evolves and the impact it will have on the future of computing!
-
  
- 
-Feel free to customize this template according to the specific details and goals of your CatGENRTX project.
-
-
-
-
- 
-
-ChatGPT can make mistakes. Consider checking important information.
